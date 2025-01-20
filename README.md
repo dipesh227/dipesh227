@@ -1,49 +1,70 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/54115006?s=400&u=433bfcc9938f245ce0b41da73b82e16e2d23184d&v=4" alt="Dipesh Joshi" width="100%"  border-radius=50%/>
-  
-  # Hi 👋, I'm Dipesh Joshi
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dipeshjoshi.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-joshi-india)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipesh227)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918630484930)
+  <img src="https://avatars.githubusercontent.com/u/54115006?s=400&u=433bfcc9938f245ce0b41da73b82e16e2d23184d&v=4" alt="Dipesh Joshi" width="200" style="border-radius: 50%; border: 5px solid #2C9DF7;" />
+
+  <h1>Hi 👋, I'm Dipesh Joshi</h1>
+
+  <p style="font-size: 1.2em; color: #2C9DF7;">
+    Full Stack Developer | MERN Stack | Next.js | AI Enthusiast
+  </p>
+
+  <div>
+    <a href="https://dipeshjoshi.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/dipesh-joshi-india" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/dipesh227" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=918630484930" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+  </div>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2C9DF7&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 💫 About Me
-- 🔭 Full Stack Developer specializing in MERN Stack and Next.js
-- 🌱 Currently working on AI-powered image generation projects
-- 💼 Available for freelance projects and collaborations
-- 📍 Based in Khatima, U.S.Nagar, Uttarakhand
-- 📧 Contact: dipeshjoshi227@gmail.com
-- 📱 Phone: +91 86304 84930
+---
+
+## 🌟 About Me
+
+<p style="font-size: 1.1em;">
+  I'm a passionate <strong>Full Stack Developer</strong> specializing in the <strong>MERN Stack</strong> and <strong>Next.js</strong>. I love building scalable, modern, and user-friendly applications. Currently, I'm exploring <strong>AI-powered image generation</strong> and working on exciting projects that combine creativity and technology.
+</p>
+
+- 🔭 **Currently Working On:** AI-powered image generation projects
+- 🌱 **Learning:** Advanced AI/ML techniques and cloud-native development
+- 💼 **Available For:** Freelance projects and collaborations
+- 📍 **Location:** Khatima, U.S.Nagar, Uttarakhand
+- 📧 **Email:** dipeshjoshi227@gmail.com
+- 📱 **Phone:** +91 86304 84930
+
+---
 
 ## 🚀 Featured Projects
 
 ### 1. [StableImg - AI Image Generator](https://github.com/dipesh227/stableimg)
-- Advanced AI image generation platform
-- Built with Next.js and cutting-edge AI technology
-- Features user-friendly interface and responsive design
-- Implements state-of-the-art neural networks
+![StableImg](https://img.shields.io/badge/StableImg-AI_Image_Generator-2C9DF7?style=flat-square)
+- **Description:** An advanced AI image generation platform built with Next.js and cutting-edge AI technology.
+- **Features:** User-friendly interface, responsive design, and state-of-the-art neural networks.
 
 ### 2. [QuizMentor](https://github.com/dipesh227/quizmentor)
-- Interactive presentation and quiz platform
-- Inspired by Mentimeter
-- Real-time audience engagement features
-- Built with modern web technologies
+![QuizMentor](https://img.shields.io/badge/QuizMentor-Interactive_Quiz_Platform-FF5722?style=flat-square)
+- **Description:** An interactive presentation and quiz platform inspired by Mentimeter.
+- **Features:** Real-time audience engagement and modern web technologies.
 
 ### 3. [NPP Gadarpur](https://github.com/dipesh227/nppgadarpur)
-- Municipal corporation management system
-- Custom CSS theming with dark mode support
-- Responsive design for all devices
-- Modern UI/UX implementation
+![NPP Gadarpur](https://img.shields.io/badge/NPP_Gadarpur-Municipal_Management_System-4EA94B?style=flat-square)
+- **Description:** A municipal corporation management system with custom CSS theming and dark mode support.
+- **Features:** Responsive design and modern UI/UX.
 
 ### 4. [Image Maker AI](https://github.com/dipesh227/imgmakerai)
-- AI-powered image manipulation tool
-- Built with Next.js and TypeScript
-- Custom font implementation
-- Advanced theming system
+![Image Maker AI](https://img.shields.io/badge/Image_Maker_AI-AI_Powered_Image_Tool-777BB4?style=flat-square)
+- **Description:** An AI-powered image manipulation tool built with Next.js and TypeScript.
+- **Features:** Custom font implementation and advanced theming system.
+
+---
 
 ## 💻 Tech Stack
 
@@ -70,6 +91,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,26 +104,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipesh227&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dipesh227&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
+
+---
 
 ## 📈 Activity Graph
 <div align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dipesh227&theme=github-compact"/>
 </div>
 
+---
+
 ## 🤝 Let's Connect
-- Portfolio: [dipeshjoshi.vercel.app](https://dipeshjoshi.vercel.app/)
-- LinkedIn: [Dipesh Joshi](https://www.linkedin.com/in/dipesh-joshi-india)
-- WhatsApp: [+91 86304 84930](https://api.whatsapp.com/send?phone=918630484930)
-- Email: [dipeshjoshi227@gmail.com](mailto:dipeshjoshi227@gmail.com)
+- **Portfolio:** [dipeshjoshi.vercel.app](https://dipeshjoshi.vercel.app/)
+- **LinkedIn:** [Dipesh Joshi](https://www.linkedin.com/in/dipesh-joshi-india)
+- **WhatsApp:** [+91 86304 84930](https://api.whatsapp.com/send?phone=918630484930)
+- **Email:** [dipeshjoshi227@gmail.com](mailto:dipeshjoshi227@gmail.com)
 
 ---
+
 <div align="center">
-  Last Updated: 2025-01-20 09:29:59 UTC
-  <br/>
   <img src="https://img.shields.io/github/followers/dipesh227?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/dipesh227?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
   <img src="https://komarev.com/ghpvc/?username=dipesh227&style=flat-square&color=blue" alt="Profile Views"/>
