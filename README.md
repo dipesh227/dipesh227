@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/54115006?s=400&u=433bfcc9938f245ce0b41da73b82e16e2d23184d&v=4" alt="Dipesh Joshi" width="100%" border-radius=50%/>
+  <img src="https://avatars.githubusercontent.com/u/54115006?s=400&u=433bfcc9938f245ce0b41da73b82e16e2d23184d&v=4" alt="Dipesh Joshi" width="100%"  border-radius=50%/>
   
   # Hi 👋, I'm Dipesh Joshi
   
