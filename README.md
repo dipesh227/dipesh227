@@ -22,7 +22,7 @@
     </a>
   </div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2C9DF7&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2C9DF7&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -33,10 +33,10 @@
   I'm a passionate <strong>Full Stack Developer</strong> specializing in the <strong>MERN Stack</strong> and <strong>Next.js</strong>. I love building scalable, modern, and user-friendly applications. Currently, I'm exploring <strong>AI-powered image generation</strong> and working on exciting projects that combine creativity and technology.
 </p>
 
-- 🔭 **Currently Working On:** AI-powered image generation projects
-- 🌱 **Learning:** Advanced AI/ML techniques and cloud-native development
+- 🔭 **Currently Working On:** AI-powered image generation projects and modern web applications
+- 🌱 **Learning:** Advanced AI/ML techniques, cloud-native development, and modern DevOps practices
 - 💼 **Available For:** Freelance projects and collaborations
-- 📍 **Location:** Khatima, U.S.Nagar, Uttarakhand
+- 📍 **Location:** Khatima, U.S.Nagar, Uttarakhand, India
 - 📧 **Email:** dipeshjoshi227@gmail.com
 - 📱 **Phone:** +91 86304 84930
 
@@ -76,6 +76,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -90,6 +91,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -115,7 +122,7 @@
 
 ## 📈 Activity Graph
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dipesh227&theme=github-compact"/>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dipesh227&theme=react-dark&bg_color=20232a&hide_border=true"/>
 </div>
 
 ---
